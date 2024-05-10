@@ -5,9 +5,10 @@ Rhode Island. As a highly motivated individual, I am eager to start my career as
 passion for creating innovative and impactful technology.
 
  - Work Experience ⚡️
+   - BitSight Software Engineer intern [Summer 2024]
    - 2024 Hack.Diversity Fellow lead [Jan 2024 - August 2024]
    - Publicis Sapient Software engineer intern [Summer 2023]
-   - Teaching Assistant for Data Structures & Algorithms [September 2022 - Present]
+   - Teaching Assistant for Data Structures & Algorithms [September 2022 - May 2024]
    - Teaching Assistant for the Survey of Computer Science at URI [September 2022 - December 2022]
  
  - Interest 🗯️
