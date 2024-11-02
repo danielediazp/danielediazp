@@ -1,12 +1,9 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
-
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There%20👋,%20I%20am%20Daniel%20Diaz;
-    &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    &font=Fira%20Code&center=true&width=440&height=45&color=0FFF50&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <p align="center" style="font-size: 16px; color:#0FFF50;">
@@ -42,7 +39,8 @@ I am a Computer Science graduate from the University of Rhode Island, eager to l
 
 
 
- ### Work Experience <i class="fas fa-briefcase" style="font-size: 25.6px; margin-left: 10px; background: linear-gradient(to bottom, brown 50%, black 50%); -webkit-background-clip: text; background-clip: text; color: transparent; animation: fa-beat 3s infinite;"></i>
+ ### Work Experience 
+ <!-- <i class="fas fa-briefcase" style="font-size: 25.6px; margin-left: 10px; background: linear-gradient(to bottom, brown 50%, black 50%); -webkit-background-clip: text; background-clip: text; color: transparent; animation: fa-beat 3s infinite;"></i> -->
 
  
 - <p style="color:#0FFF50;">Backend Software Engineer Intern @ <strong style="color: #ff4500; font-weight: bold;">BitSight</strong> <em style="color: white;">Summer 2024</em></p>
