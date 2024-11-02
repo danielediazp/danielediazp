@@ -1,9 +1,5 @@
  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There%20👋,%20I%20am%20Daniel%20Diaz;
-    &font=Fira%20Code&center=true&width=440&height=45&&vCenter=true&pause=1000&size=25" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0FFF50&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Daniel+Diaz!)](https://git.io/typing-svg)
 
 <p align="center" style="font-size: 16px; color:#0FFF50;">
 I am a Computer Science graduate from the University of Rhode Island, eager to launch my career as a software engineer. I am driven by a passion for developing innovative technologies that make a significant impact.
