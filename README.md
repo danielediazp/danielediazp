@@ -10,8 +10,8 @@
 I am a Computer Science graduate from the University of Rhode Island, eager to launch my career as a software engineer. I am driven by a passion for developing innovative technologies that make a significant impact.
 </p>
 
---- 
-### Languages & Tools
+<!-- ---  -->
+<!-- ### Languages & Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -35,15 +35,15 @@ I am a Computer Science graduate from the University of Rhode Island, eager to l
 
 <p align="left" style="color:#0FFF50;">
 <strong style="color: red;">Statement:</strong> Throughout my career, I have had the chance to work with a variety of tools and frameworks. As an early professional, I do not claim expertise in these technologies, but I am always happy to chat about how they were incorporated in the projects or classes where I used them.
-</p>
+</p> -->
 
 
 
- ### Work Experience 
+ <!-- ### Work Experience  -->
  <!-- <i class="fas fa-briefcase" style="font-size: 25.6px; margin-left: 10px; background: linear-gradient(to bottom, brown 50%, black 50%); -webkit-background-clip: text; background-clip: text; color: transparent; animation: fa-beat 3s infinite;"></i> -->
 
  
-- <p style="color:#0FFF50;">Backend Software Engineer Intern @ <strong style="color: #ff4500; font-weight: bold;">BitSight</strong> <em style="color: white;">Summer 2024</em></p>
+<!-- - <p style="color:#0FFF50;">Backend Software Engineer Intern @ <strong style="color: #ff4500; font-weight: bold;">BitSight</strong> <em style="color: white;">Summer 2024</em></p>
 
 - <p style="color:#0FFF50;">Fellow/Ops Lead @ <strong style="font-weight: bold; background: linear-gradient(to right, blue, orange, white); -webkit-background-clip: text; color: transparent;">Hack.Diversity</strong> <em style="color: white;">Jan 2024 - August 2024</em></p>
 
@@ -62,4 +62,4 @@ I am a Computer Science graduate from the University of Rhode Island, eager to l
   <a href="mailto:danieldiaz041100@gmail.com">
     <img align="left" alt="Gmail" width="60px" style="padding-right:10px;" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
   </a>
-</p>
+</p> -->
