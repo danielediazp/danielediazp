@@ -6,7 +6,7 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There%20👋,%20I%20am%20Daniel%20Diaz;
-    &font=Fira%20Code&center=true&width=440&height=45&color=0FFF50&vCenter=true&pause=1000&size=25" /></a>
+    &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center" style="font-size: 16px; color:#0FFF50;">
@@ -14,7 +14,7 @@ I am a Computer Science graduate from the University of Rhode Island, eager to l
 </p>
 
 --- 
-<!-- ### Languages & Tools
+### Languages & Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -38,7 +38,7 @@ I am a Computer Science graduate from the University of Rhode Island, eager to l
 
 <p align="left" style="color:#0FFF50;">
 <strong style="color: red;">Statement:</strong> Throughout my career, I have had the chance to work with a variety of tools and frameworks. As an early professional, I do not claim expertise in these technologies, but I am always happy to chat about how they were incorporated in the projects or classes where I used them.
-</p> -->
+</p>
 
 
 
