@@ -1,7 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
-
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Daniel+Diaz)](https://git.io/typing-svg)
 <p align="center" style="font-size: 16px; color:#0FFF50;">
 I am a Computer Science graduate from the University of Rhode Island, eager to launch my career as a software engineer. I am driven by a passion for developing innovative technologies that make a significant impact.
