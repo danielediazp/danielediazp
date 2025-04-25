@@ -1,10 +1,6 @@
  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0FFF50&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Daniel+Diaz!)](https://git.io/typing-svg)
 
-<p align="center">
-I am a Computer Science graduate from the University of Rhode Island, eager to launch my career as a software engineer. I am driven by a passion for developing innovative technologies that make a significant impact.
-</p>
-
 --- 
 
 <p align="center">
@@ -41,6 +37,12 @@ I am a Computer Science graduate from the University of Rhode Island, eager to l
 
 
  ### Work Experience 
+
+- <p>
+  Chaos Engineer @ 
+  <strong style="color: #ff6319; font-weight: bold;">Bloomberg</strong> 
+  <em style="color: #e0e0e0;">2025 - Present</em>
+</p>
 
  
 - <p>Backend Software Engineer Intern @ <strong style="color: #ff4500; font-weight: bold;">BitSight</strong> <em style="color: white;">Summer 2024</em></p>
